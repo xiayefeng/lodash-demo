@@ -1,0 +1,14 @@
+{
+  "name": "lodash-demo",
+  "version": "1.0.0",
+  "description": "lodash-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiaoyu",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
